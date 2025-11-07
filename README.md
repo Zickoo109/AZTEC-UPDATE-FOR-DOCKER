@@ -101,5 +101,5 @@ aztec start --node --archiver --sequencer \
   --sequencer.coinbase YourAddress \
   --p2p.p2pIp Your_ip
 ```
-### ALL DONE
+*replace variables as mentionted in step 4*
   

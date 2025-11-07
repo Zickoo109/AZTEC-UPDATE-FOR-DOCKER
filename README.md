@@ -74,8 +74,8 @@ echo "All done! u have successfully joined the new testnet now rerun your node w
 ```bash
 nano .env
 ```
-###replace `validator-Private-Keys` value with the `new ETH private key` that you saved from running the script in step 3. that is your new private key
-###replace `coinbase address` with the new public address u saved
+Replace `validator-Private-Keys` value with the `new ETH private key` that you saved from running the script in step 3. that is your new private key
+Replace `coinbase address` with the new public address u saved
 
   **👉 Save with `CTRL+X`, press `Y`, then Enter.**
 

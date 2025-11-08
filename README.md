@@ -1,4 +1,4 @@
-# AZTEC-UPDATE-FOR-DOCKER
+# AZTEC NODE UPDATE
 ## 1. install aztec tools
 ```bash
 bash -i <(curl -s https://install.aztec.network)

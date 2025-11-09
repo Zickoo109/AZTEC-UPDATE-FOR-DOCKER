@@ -99,9 +99,9 @@ aztec start --node --archiver --sequencer \
   --network testnet \
   --l1-rpc-urls Eth_Sepolia_RPC \
   --l1-consensus-host-urls Eth-beacon_sepolia_RPC \
-  --sequencer.validatorPrivateKeys 0xNewETHkey \
-  --sequencer.coinbase YourNewpublicaddress \
-  --sequencer.governanceProposerPayload 0xDCd9DdeAbEF70108cE02576df1eB333c4244C666\
+  --sequencer.validatorPrivateKeys 0xYourETHkey \
+  --sequencer.coinbase YourNewPublicAddress \
+  --sequencer.governanceProposerPayload 0xDCd9DdeAbEF70108cE02576df1eB333c4244C666 \
   --p2p.p2pIp Your_ip
 ```
 

@@ -72,7 +72,9 @@ echo "All done! u have successfully joined the new testnet now rerun your node w
 
 *for ETH RPC when the script ask for one: use `https://sepolia.drpc.org`* dont use this RPC to run your node. its only for registration purpose
 
-## 4. Open 
+### for those who run the node with docker
+
+### i. Open 
 ```bash
 nano .env
 ```
@@ -82,7 +84,7 @@ Replace `coinbase address` with the new public address u saved
 
   **👉 Save with `CTRL+X`, press `Y`, then Enter.**
 
-  ## 5. stop container and update image tag
+  ### ii. stop container and update image tag
   ```bash
   cd aztec && \
 docker compose down -v && \

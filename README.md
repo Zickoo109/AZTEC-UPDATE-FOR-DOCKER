@@ -79,8 +79,9 @@ echo "All done! u have successfully joined the new testnet now rerun your node w
 ### for those who run the node with docker
 
 ### i. Go into your aztec directory and update .env
-```cd aztec```
-
+```bash
+cd aztec
+```
 ```bash
 nano .env
 ```
